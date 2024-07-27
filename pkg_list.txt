@@ -1,0 +1,13 @@
+blender
+code
+evince
+gedit
+gimp
+libreoffice-fresh
+neofetch
+oh-my-zsh
+steam
+telegram-desktop
+tmux
+vlc
+wofi

@@ -1,0 +1,10 @@
+flashfocus
+foot
+git
+neofetch
+sway
+swaylock
+tmux
+waybar
+wofi
+zsh
